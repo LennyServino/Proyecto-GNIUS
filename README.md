@@ -2,7 +2,7 @@
 Sistema para la gestion de procesos y emprendedores, gestion de eventos del area como la creacion, modificacion y asistencia de eventos.
 Montar Proyecto G´nius_v4.2
 
--Este sistema esta desarrollado con PHP 7.4 y MySQL 8.0.18
+-Este sistema esta desarrollado con PHP 7.4 y MySQL 8.0.18. Ademas de Bootstrap 4
 
 -Abrir XAMPP y ejecutar el servicio de Apache y MySQL.
 
