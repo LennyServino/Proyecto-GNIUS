@@ -9,9 +9,9 @@ Montar Proyecto G´nius_v3.5
 -Importar a mysql el archivo de la base de datos "proyecto_gnius.sql" que se encuentra
 en la carpeta "bd".
 
--Mover la carpeta "G´nius_v3.5" a la direccion de XAMPP C:\xampp\htdocs\G´nius_v4.2
+-Mover la carpeta "G´nius_v4.2" a la direccion de XAMPP C:\xampp\htdocs\G´nius_v4.2
 
 -Ejecutar en el navegador el archivo "index.php" que se encuentra en la carpeta
-G´nius_v3.5
+G´nius_v4.2
 
 -Todas las opciones se ejecutan desde el index.
